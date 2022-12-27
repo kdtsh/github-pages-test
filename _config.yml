@@ -1,1 +1,15 @@
+title: Kenan's Blog
+author:
+  name: Kenan Toker
+  email: kenan@kdtsh.net
+description:
+  Welcome to my blog. Here I post things I am working on, things I am
+  interested in, travel photos, etc.
+  
+minima:
+  social_links:
+    - platform: hacker news
+      user_url: "https://news.ycombinator.com/user?id=kdtsh"
+      title: My profile at Hacker News
+
 theme: minima
